@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "966176255621",
+    "project_id": "complete-kite-492211-q1",
+    "storage_bucket": "complete-kite-492211-q1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966176255621:android:652a3b190cbb0fa0c783ec",
+        "android_client_info": {
+          "package_name": "com.example.manekelsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966176255621-r4uaemprb8vc5ib0mtmvqkmj6vgg1hmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaTWlNLwQRJmBZd31hAr1zqKdkH-sNxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966176255621-r4uaemprb8vc5ib0mtmvqkmj6vgg1hmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966176255621:android:750a30e6da63eb4ac783ec",
+        "android_client_info": {
+          "package_name": "com.manematrix.manekelsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966176255621-r4uaemprb8vc5ib0mtmvqkmj6vgg1hmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaTWlNLwQRJmBZd31hAr1zqKdkH-sNxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966176255621-r4uaemprb8vc5ib0mtmvqkmj6vgg1hmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
