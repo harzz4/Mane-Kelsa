@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಮನೆ ಕೆಲಸ</string>
+    <string name="splash_loading">ಉಳಿಸಿದ ಪಾತ್ರ ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
+
+    <string name="role_title">ನಿಮ್ಮ ಪಾತ್ರ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="role_description">ನೀವು ಆಪ್ ಹೇಗೆ ಬಳಸಬೇಕು ಎಂದು ಹೇಳಿ. ನಂತರ ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.</string>
+    <string name="role_worker_title">ನಾನು ಕೆಲಸಗಾರ</string>
+    <string name="role_worker_desc">ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಮಾಡಿ, ನೀವು ಯಾವಾಗ ಲಭ್ಯ ಎಂದು ತೋರಿಸಿ.</string>
+    <string name="role_resident_title">ನನಗೆ ಮನೆ ಕೆಲಸಕ್ಕೆ ಸಹಾಯ ಬೇಕು</string>
+    <string name="role_resident_desc">ನಿಮ್ಮ ಪ್ರದೇಶದ ಕೆಲಸಗಾರರನ್ನು ನೋಡಿ, ಒಂದು ಟ್ಯಾಪ್‌ನಲ್ಲಿ ಕರೆ ಮಾಡಿ.</string>
+    <string name="role_save_error">ಪಾತ್ರ ಉಳಿಸಲು ಆಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <string name="worker_home_title">ಕೆಲಸಗಾರ ಮನೆ</string>
+    <string name="profile_summary_title">ಪ್ರೊಫೈಲ್ ಸಾರಾಂಶ</string>
+    <string name="profile_not_created_title">ಪ್ರೊಫೈಲ್ ಸೇರಿಸಿಲ್ಲ</string>
+    <string name="profile_not_created_body">ಜನರು ನೋಡಲು ನಿಮ್ಮ ಹೆಸರು, ಫೋನ್, ಪ್ರದೇಶ, ಸೇವೆ ಮತ್ತು ದರ ಸೇರಿಸಿ.</string>
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ಬದಲಿಸಿ</string>
+    <string name="preview_title">ಜನರು ನೋಡುವ ಕಾರ್ಡ್</string>
+    <string name="worker_preview_empty">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿದ ನಂತರ ನಿಮ್ಮ ಕಾರ್ಡ್ ಇಲ್ಲಿ ಕಾಣುತ್ತದೆ.</string>
+    <string name="availability_toggle_title">ಇಂದಿನ ಲಭ್ಯತೆ</string>
+    <string name="available_today">ಇಂದು ಲಭ್ಯ</string>
+    <string name="not_available">ಲಭ್ಯವಿಲ್ಲ</string>
+
+    <string name="worker_edit_title">ಕೆಲಸಗಾರ ಪ್ರೊಫೈಲ್ ಬದಲಿಸಿ</string>
+    <string name="label_name">ಹೆಸರು</string>
+    <string name="label_phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="label_photo_url">ಫೋಟೋ</string>
+    <string name="label_photo">ಫೋಟೋ</string>
+    <string name="choose_from_gallery">ಗ್ಯಾಲರಿ</string>
+    <string name="take_photo">ಕ್ಯಾಮೆರಾ</string>
+    <string name="label_service">ಸೇವೆ</string>
+    <string name="label_area">ಪ್ರದೇಶ</string>
+    <string name="label_street">ರಸ್ತೆ</string>
+    <string name="label_daily_rate">ದಿನದ ದರ</string>
+    <string name="label_two_hour_rate">2 ಗಂಟೆಯ ದರ</string>
+    <string name="label_experience_years">ಅನುಭವ ವರ್ಷಗಳು</string>
+    <string name="label_description">ವಿವರಣೆ</string>
+    <string name="select_service">ಸೇವೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="generate_description">ವಿವರಣೆ ರಚಿಸಿ</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="saving">ಉಳಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="validation_name_required">ಕೆಲಸಗಾರರ ಹೆಸರು ಬರೆಯಿರಿ.</string>
+    <string name="validation_phone_invalid">ಸರಿಯಾದ 10 ಅಂಕೆಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ.</string>
+    <string name="validation_area_required">ಪ್ರದೇಶ ಬರೆಯಿರಿ.</string>
+    <string name="validation_service_required">ಒಂದು ಸೇವೆ ಆಯ್ಕೆ ಮಾಡಿ.</string>
+    <string name="validation_rate_required">0 ಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ದರವನ್ನು ಬರೆಯಿರಿ.</string>
+    <string name="generated_description_with_experience">%1$s ಅವರು %2$s ಪ್ರದೇಶದಲ್ಲಿ %3$s ಸೇವೆ ಮಾಡುತ್ತಾರೆ. %4$d ವರ್ಷಗಳ ಅನುಭವ ಹೊಂದಿದ್ದಾರೆ. ಸಮಯಕ್ಕೆ ಬಂದು ಒಳ್ಳೆಯ ರೀತಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾರೆ.</string>
+    <string name="generated_description_without_experience">%1$s ಅವರು %2$s ಪ್ರದೇಶದಲ್ಲಿ %3$s ಸೇವೆ ಮಾಡುತ್ತಾರೆ. ವಿಶ್ವಾಸದಿಂದ ಸಮಯಕ್ಕೆ ಬಂದು ಒಳ್ಳೆಯ ರೀತಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾರೆ.</string>
+
+    <string name="profile_saved_title">ಪ್ರೊಫೈಲ್ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="profile_saved_body">ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಉಳಿಸಲಾಗಿದೆ. ಇಂಟರ್ನೆಟ್/Firebase ಲಭ್ಯವಿದ್ದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತದೆ. ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ಗೆ ಹಿಂತಿರುಗುತ್ತಿದ್ದೇವೆ.</string>
+
+    <string name="resident_home_title">ಕೆಲಸಗಾರರನ್ನು ಹುಡುಕಿ</string>
+    <string name="area_search_label">ಪ್ರದೇಶ</string>
+    <string name="area_search_hint">ನಿಮ್ಮ ಪ್ರದೇಶ ಅಥವಾ ರಸ್ತೆ ಬರೆಯಿರಿ</string>
+    <string name="filter_all_services">ಎಲ್ಲ ಸೇವೆಗಳು</string>
+    <string name="empty_workers_title">ಲಭ್ಯ ಕೆಲಸಗಾರರು ಇಲ್ಲ</string>
+    <string name="empty_workers_body">ಬೇರೆ ಪ್ರದೇಶ ಅಥವಾ ಸೇವೆ ಪ್ರಯತ್ನಿಸಿ, ಅಥವಾ ಲಭ್ಯತೆ ಫಿಲ್ಟರ್ ಆಫ್ ಮಾಡಿ.</string>
+
+    <string name="details_title">ಕೆಲಸಗಾರ ವಿವರ</string>
+    <string name="worker_not_found_title">ಕೆಲಸಗಾರ ಸಿಗಲಿಲ್ಲ</string>
+    <string name="worker_not_found_body">ಈ ಪ್ರೊಫೈಲ್ ತೆಗೆದುಹಾಕಿರಬಹುದು.</string>
+    <string name="call">ಕರೆ ಮಾಡಿ</string>
+    <string name="thumbs_up">ಮೆಚ್ಚುಗೆ ನೀಡಿ</string>
+    <string name="already_liked">ಮೆಚ್ಚುಗೆ ನೀಡಿದ್ದೀರಿ</string>
+    <string name="call_unavailable_message">ಈ ಸಾಧನದಲ್ಲಿ ಕರೆ ಸೌಲಭ್ಯ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="call_disabled_reason">ಫೋನ್ ಸಂಖ್ಯೆ ಸರಿಯಿಲ್ಲದ ಕಾರಣ ಕರೆ ಬಟನ್ ಆಫ್ ಇದೆ.</string>
+    <string name="daily_rate">ದಿನದ ದರ</string>
+    <string name="two_hour_rate">2 ಗಂಟೆಯ ದರ</string>
+    <string name="area">ಪ್ರದೇಶ</string>
+    <string name="phone">ಫೋನ್</string>
+    <string name="experience">ಅನುಭವ</string>
+    <string name="rating">ಮೆಚ್ಚುಗೆ</string>
+    <string name="no_description">ಇನ್ನೂ ವಿವರಣೆ ಸೇರಿಸಿಲ್ಲ.</string>
+    <string name="money_value">₹%1$d</string>
+    <string name="daily_rate_value">ದಿನ ₹%1$d</string>
+    <string name="two_hour_rate_value">2 ಗಂ ₹%1$d</string>
+    <string name="rating_count_value">%1$d ಮೆಚ್ಚುಗೆ</string>
+    <string name="years_value">%1$d ವರ್ಷ</string>
+    <string name="experience_not_added">ಸೇರಿಸಿಲ್ಲ</string>
+    <string name="street_area_value">%1$s, %2$s</string>
+    <string name="area_not_added">ಪ್ರದೇಶ ಸೇರಿಸಿಲ್ಲ</string>
+    <string name="worker_name_missing">ಹೆಸರು ಸೇರಿಸಿಲ್ಲ</string>
+
+    <string name="settings_title">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="language_title">ಭಾಷೆ</string>
+    <string name="language_kannada">ಕನ್ನಡ</string>
+    <string name="language_english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="current_role">ಈಗಿನ ಪಾತ್ರ</string>
+    <string name="worker_role">ಕೆಲಸಗಾರ</string>
+    <string name="resident_role">ಮನೆಯವರು</string>
+    <string name="unknown_role">ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ</string>
+    <string name="change_role">ಪಾತ್ರ ಬದಲಿಸಿ</string>
+    <string name="reset_role_body">ಆಪ್ ಪಾತ್ರವನ್ನು ಮರುಹೊಂದಿಸಿ, ಮತ್ತೆ ಕೆಲಸಗಾರ ಅಥವಾ ಮನೆಯವರು ಆಯ್ಕೆ ಮಾಡಿ.</string>
+    <string name="reset_role">ಪಾತ್ರ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="about_title">ಮನೆ ಕೆಲಸ ಬಗ್ಗೆ</string>
+    <string name="about_body">ಮನೆ ಕೆಲಸ ಆಪ್ ಜನರಿಗೆ ಹತ್ತಿರದ ಮನೆ ಸೇವೆ ಕೆಲಸಗಾರರನ್ನು ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಕೆಲಸಗಾರರು ತಮ್ಮ ಲಭ್ಯತೆಯನ್ನು ತಕ್ಷಣ ಬದಲಾಯಿಸಬಹುದು.</string>
+
+    <string name="service_house_cleaning">ಮನೆ ಸ್ವಚ್ಛತೆ</string>
+    <string name="service_cooking">ಅಡುಗೆ</string>
+    <string name="service_child_care">ಮಕ್ಕಳ ಆರೈಕೆ</string>
+    <string name="service_elder_care">ಹಿರಿಯರ ಆರೈಕೆ</string>
+    <string name="service_gardening">ತೋಟ ಕೆಲಸ</string>
+    <string name="service_driver">ಚಾಲಕ</string>
+    <string name="service_laundry">ಬಟ್ಟೆ ಕೆಲಸ</string>
+    <string name="service_other">ಇತರೆ</string>
+
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
+    <string name="error_title">ಏನೋ ತಪ್ಪಾಗಿದೆ</string>
+    <string name="generic_error_body">Firebase ಸೆಟಪ್ ಅಥವಾ ಇಂಟರ್ನೆಟ್ ಪರಿಶೀಲಿಸಿ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="content_desc_back">ಹಿಂದೆ</string>
+    <string name="content_desc_profile_photo">ಪ್ರೊಫೈಲ್ ಫೋಟೋ</string>
+</resources>

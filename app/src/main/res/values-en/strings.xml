@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mane Kelsa</string>
+    <string name="splash_loading">Loading your saved role</string>
+
+    <string name="role_title">Choose your role</string>
+    <string name="role_description">Tell us how you want to use the app. You can change this later in settings.</string>
+    <string name="role_worker_title">I am a worker</string>
+    <string name="role_worker_desc">Create your profile and show when you are available.</string>
+    <string name="role_resident_title">I need home help</string>
+    <string name="role_resident_desc">Find workers near your area and call with one tap.</string>
+    <string name="role_save_error">Could not save the role. Please try again.</string>
+
+    <string name="worker_home_title">Worker Home</string>
+    <string name="profile_summary_title">Profile summary</string>
+    <string name="profile_not_created_title">Profile not added</string>
+    <string name="profile_not_created_body">Add your name, phone, area, service, and rates so residents can see you.</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="preview_title">Resident preview</string>
+    <string name="worker_preview_empty">Your worker card will appear here after saving the profile.</string>
+    <string name="availability_toggle_title">Today availability</string>
+    <string name="available_today">Available Today</string>
+    <string name="not_available">Not Available</string>
+
+    <string name="worker_edit_title">Edit Worker Profile</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone_number">Phone number</string>
+    <string name="label_photo_url">Photo</string>
+    <string name="label_photo">Photo</string>
+    <string name="choose_from_gallery">Gallery</string>
+    <string name="take_photo">Camera</string>
+    <string name="label_service">Service</string>
+    <string name="label_area">Area</string>
+    <string name="label_street">Street</string>
+    <string name="label_daily_rate">Daily Rate</string>
+    <string name="label_two_hour_rate">Two Hour Rate</string>
+    <string name="label_experience_years">Experience years</string>
+    <string name="label_description">Description</string>
+    <string name="select_service">Select service</string>
+    <string name="generate_description">Generate description</string>
+    <string name="save">Save</string>
+    <string name="saving">Saving</string>
+    <string name="validation_name_required">Enter the worker name.</string>
+    <string name="validation_phone_invalid">Enter a valid 10 digit mobile number.</string>
+    <string name="validation_area_required">Enter the area.</string>
+    <string name="validation_service_required">Select one service.</string>
+    <string name="validation_rate_required">Enter a rate greater than 0.</string>
+    <string name="generated_description_with_experience">%1$s works in %2$s for %3$s service. %1$s has %4$d years of experience and works neatly on time.</string>
+    <string name="generated_description_without_experience">%1$s works in %2$s for %3$s service. %1$s is reliable and works neatly on time.</string>
+
+    <string name="profile_saved_title">Profile saved</string>
+    <string name="profile_saved_body">Your profile has been saved. It will sync automatically when internet/Firebase is available. Taking you back to home.</string>
+
+    <string name="resident_home_title">Find Workers</string>
+    <string name="area_search_label">Area</string>
+    <string name="area_search_hint">Type your area or street</string>
+    <string name="filter_all_services">All services</string>
+    <string name="empty_workers_title">No workers available</string>
+    <string name="empty_workers_body">Try another area, service, or turn off the availability filter.</string>
+
+    <string name="details_title">Worker Details</string>
+    <string name="worker_not_found_title">Worker not found</string>
+    <string name="worker_not_found_body">This worker profile may have been removed.</string>
+    <string name="call">Call</string>
+    <string name="thumbs_up">Thumbs up</string>
+    <string name="already_liked">Already liked</string>
+    <string name="call_unavailable_message">Calling is not available on this device.</string>
+    <string name="call_disabled_reason">Call is disabled because the phone number is invalid.</string>
+    <string name="daily_rate">Daily Rate</string>
+    <string name="two_hour_rate">Two Hour Rate</string>
+    <string name="area">Area</string>
+    <string name="phone">Phone</string>
+    <string name="experience">Experience</string>
+    <string name="rating">Rating</string>
+    <string name="no_description">No description added yet.</string>
+    <string name="money_value">₹%1$d</string>
+    <string name="daily_rate_value">Daily ₹%1$d</string>
+    <string name="two_hour_rate_value">2 hr ₹%1$d</string>
+    <string name="rating_count_value">%1$d likes</string>
+    <string name="years_value">%1$d years</string>
+    <string name="experience_not_added">Not added</string>
+    <string name="street_area_value">%1$s, %2$s</string>
+    <string name="area_not_added">Area not added</string>
+    <string name="worker_name_missing">Name not added</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="language_title">Language</string>
+    <string name="language_kannada">Kannada</string>
+    <string name="language_english">English</string>
+    <string name="current_role">Current role</string>
+    <string name="worker_role">Worker</string>
+    <string name="resident_role">Resident</string>
+    <string name="unknown_role">Not selected</string>
+    <string name="change_role">Change role</string>
+    <string name="reset_role_body">Reset the app role and choose Worker or Resident again.</string>
+    <string name="reset_role">Reset role</string>
+    <string name="about_title">About Mane-Kelsa</string>
+    <string name="about_body">Mane-Kelsa helps residents find nearby home-service workers and helps workers update their availability in real time.</string>
+
+    <string name="service_house_cleaning">House cleaning</string>
+    <string name="service_cooking">Cooking</string>
+    <string name="service_child_care">Child care</string>
+    <string name="service_elder_care">Elder care</string>
+    <string name="service_gardening">Gardening</string>
+    <string name="service_driver">Driver</string>
+    <string name="service_laundry">Laundry</string>
+    <string name="service_other">Other</string>
+
+    <string name="loading">Loading</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="generic_error_body">Please check Firebase setup or internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_profile_photo">Profile photo</string>
+</resources>
