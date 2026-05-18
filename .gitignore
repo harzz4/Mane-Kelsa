@@ -1,0 +1,16 @@
+# Gradle and Android build outputs
+.gradle/
+build/
+app/build/
+
+# Local machine files
+local.properties
+.idea/
+*.iml
+
+# Firebase config is added locally from Firebase Console
+app/google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
